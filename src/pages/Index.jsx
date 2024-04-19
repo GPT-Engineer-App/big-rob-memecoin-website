@@ -9,7 +9,7 @@ const Index = () => {
         <Heading as="h1" size="2xl" textAlign="center">
           Big Rob Memecoin <FaBitcoin />
         </Heading>
-        <Image src="https://images.unsplash.com/photo-1601758003834-3a2f8fc3d2fc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxjYXJ0b29uJTIwYmFuayUyMHJvYmJlcnxlbnwwfHx8fDE2NTIzNzU4OTQ&ixlib=rb-4.0.3&q=80&w=1080" alt="Cartoon Bank Robber" boxSize="200px" objectFit="cover" />
+        <Image src="https://images.unsplash.com/photo-1583083974078-695e0e8f9e3b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w1MDcxMzJ8MHwxfHNlYXJjaHwxfHxjYXJ0b29uJTIwYmFuayUyMHJvYmJlcnxlbnwwfHx8fDE2NTIzNzU4OTQ&ixlib=rb-4.0.3&q=80&w=1080" alt="Cartoon Bank Robber" boxSize="200px" objectFit="cover" />
         <Text fontSize="xl" textAlign="center">
           Welcome to the official site of Big Rob Memecoin!
         </Text>
