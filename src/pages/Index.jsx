@@ -1,5 +1,5 @@
 // Complete the Index page component for the Big Rob memecoin website
-import { Box, Text, Image, Container, Heading, VStack } from "@chakra-ui/react";
+import { Box, Text, Image, Container, Heading, VStack, Link } from "@chakra-ui/react";
 import { FaBitcoin } from "react-icons/fa";
 
 const Index = () => {
@@ -19,6 +19,9 @@ const Index = () => {
         <Box p={5} shadow="md" borderWidth="1px" borderRadius="md">
           <Text fontSize="lg">Disclaimer: This is not a real investment. It's a fun project made by Rob. Invest at your own risk!</Text>
         </Box>
+        <Link href="https://www.instagram.com/localcardshop" isExternal color="blue.500">
+          Follow us on Instagram @localcardshop
+        </Link>
       </VStack>
     </Container>
   );
