@@ -4,7 +4,7 @@ import { FaBitcoin } from "react-icons/fa";
 
 const Index = () => {
   return (
-    <Container maxW="container.md" p={4}>
+    <Container maxW="container.md" p={4} bg="green.100">
       <VStack spacing={8} align="center">
         <Heading as="h1" size="2xl" textAlign="center">
           Big Rob Memecoin <FaBitcoin />
